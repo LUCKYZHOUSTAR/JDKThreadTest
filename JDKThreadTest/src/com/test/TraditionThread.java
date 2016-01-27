@@ -39,6 +39,14 @@ public class TraditionThread {
 
 	static class  Outputer {
 
+		
+		
+		public void test(){
+			synchronized (this) {
+				
+			}
+		}
+		
 		public void output(String name) {
 			
 			//如果有很多需要锁住的方法的话，则也必须保证只有一把钥匙，这个意思就是锁住的方法的钥匙都是一样的
