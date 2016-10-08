@@ -7,6 +7,7 @@ public class Account {
 
 
 	private  String hello;
+        //添加了信息
 	/**
 	 * Balance of the bank account
 	 */
