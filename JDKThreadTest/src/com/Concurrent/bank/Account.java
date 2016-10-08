@@ -5,6 +5,8 @@ package com.Concurrent.bank;
  */
 public class Account {
 
+
+	private  String hello;
 	/**
 	 * Balance of the bank account
 	 */
