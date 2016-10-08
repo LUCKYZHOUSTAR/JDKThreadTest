@@ -7,7 +7,8 @@ public class Account {
 
 
 	private  String hello;
-        //添加了信息
+	//i am lucky branch
+        //添加了信�?
 	/**
 	 * Balance of the bank account
 	 */
